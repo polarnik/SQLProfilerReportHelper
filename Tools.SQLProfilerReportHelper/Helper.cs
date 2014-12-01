@@ -875,7 +875,7 @@ ORDER BY [DatabaseName], [Error], [ApplicationName], [ErrorText]
             var command = new SqlCommand();
             command.Connection = this.Connection;
             command.CommandTimeout = 60 * 60;
-            command.CommandText = string.Format(@"
+            command.CommandText = @"
 CREATE FUNCTION [dbo].[PrepareTextData4]
 (
 	-- Add the parameters for the function here
@@ -1129,7 +1129,7 @@ BEGIN
 	RETURN @textKey
 END
 
-            ", this.TableName, this.TableNameError);
+            ";
             command.ExecuteNonQuery();
         }
 
