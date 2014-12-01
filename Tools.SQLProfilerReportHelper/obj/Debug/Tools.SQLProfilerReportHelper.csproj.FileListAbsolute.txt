@@ -1,0 +1,17 @@
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\bin\Debug\Tools.SQLProfilerReportHelper.exe.manifest
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\bin\Debug\Tools.SQLProfilerReportHelper.application
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\bin\Debug\Tools.SQLProfilerReportHelper.exe
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\bin\Debug\Tools.SQLProfilerReportHelper.pdb
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\bin\Debug\Tools.dll
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\bin\Debug\Tools.pdb
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.csprojResolveAssemblyReference.cache
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.MainForm.resources
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.Properties.Resources.resources
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.ReportViewForm.resources
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.csproj.GenerateResource.Cache
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.exe.manifest
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.application
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.exe
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.pdb
+D:\Projects\GitHub\SQLProfilerReportHelper\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.exe
+D:\Projects\GitHub\SQLProfilerReportHelper\Tools.SQLProfilerReportHelper\obj\Debug\Tools.SQLProfilerReportHelper.pdb

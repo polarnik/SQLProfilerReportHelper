@@ -1,0 +1,5 @@
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools\bin\Debug\Tools.dll
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools\bin\Debug\Tools.pdb
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools\obj\Debug\Tools.csprojResolveAssemblyReference.cache
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools\obj\Debug\Tools.dll
+D:\Projects\_TFS_\Synerdocs.LoadTest.2.6.2\Tools\obj\Debug\Tools.pdb
